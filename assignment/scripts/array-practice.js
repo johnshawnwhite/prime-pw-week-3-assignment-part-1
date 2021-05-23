@@ -82,3 +82,4 @@ console.log('The animals are now', animalArray);
 //     log both the food removed and the updated array
 console.log('Removed the first food', removedFood);
 console.log('Favorite foods are now', favoriteFoods);
+console.log('removing this');
